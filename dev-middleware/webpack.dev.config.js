@@ -1,5 +1,5 @@
 const path = require('path');
-
+console.log(2222)
 module.exports = {
   entry: './src/index.js',
   mode: 'development',
